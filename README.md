@@ -184,7 +184,7 @@ student-performance-predictor/
 
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/student-performance-predictor.git
+git clone https://github.com/Pragna-10/student-performance-predictor.git
 cd student-performance-predictor
 ```
 
@@ -238,8 +238,8 @@ Open your terminal in the project directory and run:
 # Ensure git uses the main branch
 git branch -M main
 
-# Add your GitHub repository as remote origin (replace with your repo URL)
-git remote add origin https://github.com/<YOUR-USERNAME>/<YOUR-REPOSITORY-NAME>.git
+# Add your GitHub repository as remote origin
+git remote add origin https://github.com/Pragna-10/student-performance-predictor.git
 
 # Push your code to GitHub
 git push -u origin main
