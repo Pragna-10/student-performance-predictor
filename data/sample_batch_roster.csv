@@ -1,0 +1,41 @@
+Student_ID,Study_Hours_Per_Week,Attendance_Rate,Past_Exam_Score,Sleep_Hours,Assignments_Completion_Rate,Parental_Education,Internet_Access,Tutoring,Extracurricular_Activities,Study_Environment,Stress_Level
+STU-1000,11.3,88.8,43.1,7.1,73.6,Bachelor's Degree,Yes,No,Yes,Quiet / Dedicated,Medium
+STU-1001,38.0,59.9,68.3,6.2,78.3,Bachelor's Degree,Yes,No,No,Noisy / Distracting,Low
+STU-1002,5.8,87.4,51.7,6.0,69.2,High School,Yes,No,No,Moderate Noise,Medium
+STU-1003,7.8,80.3,54.8,8.0,47.3,High School,No,No,Yes,Quiet / Dedicated,Low
+STU-1004,12.4,99.5,70.0,6.7,74.2,Bachelor's Degree,Yes,No,Yes,Moderate Noise,High
+STU-1005,18.2,87.7,72.3,6.9,73.0,Bachelor's Degree,Yes,Yes,Yes,Quiet / Dedicated,Medium
+STU-1006,13.1,73.1,53.6,5.2,51.1,Associate Degree,Yes,Yes,Yes,Moderate Noise,Medium
+STU-1007,2.8,86.0,57.1,5.7,51.1,Master's / PhD,Yes,Yes,No,Quiet / Dedicated,Medium
+STU-1008,10.8,87.9,79.9,9.8,73.7,Bachelor's Degree,Yes,Yes,Yes,Quiet / Dedicated,Low
+STU-1009,21.8,68.5,53.3,6.2,75.6,High School,Yes,No,No,Moderate Noise,Medium
+STU-1010,13.8,89.3,54.8,8.7,55.3,Bachelor's Degree,Yes,Yes,Yes,Moderate Noise,High
+STU-1011,13.9,70.4,51.3,8.6,60.6,Associate Degree,Yes,No,Yes,Noisy / Distracting,Medium
+STU-1012,20.2,93.2,78.8,7.8,74.5,High School,Yes,No,Yes,Quiet / Dedicated,Medium
+STU-1013,9.2,94.1,65.1,6.9,67.5,Bachelor's Degree,Yes,Yes,No,Moderate Noise,Medium
+STU-1014,23.9,84.3,56.1,7.5,73.7,Master's / PhD,Yes,Yes,Yes,Quiet / Dedicated,Low
+STU-1015,9.7,80.0,78.6,7.6,58.8,High School,Yes,No,Yes,Quiet / Dedicated,Medium
+STU-1016,21.1,55.3,74.0,7.1,61.6,High School,Yes,No,No,Moderate Noise,Medium
+STU-1017,16.7,97.6,84.3,7.0,92.1,Bachelor's Degree,Yes,No,Yes,Noisy / Distracting,Medium
+STU-1018,7.1,85.7,98.3,7.8,61.8,Bachelor's Degree,Yes,No,No,Noisy / Distracting,Medium
+STU-1019,19.7,98.4,76.4,5.9,74.4,Associate Degree,Yes,No,Yes,Moderate Noise,Medium
+STU-1020,20.1,94.2,78.1,4.8,76.4,Bachelor's Degree,Yes,No,No,Noisy / Distracting,Low
+STU-1021,3.6,49.7,62.3,9.6,31.8,Bachelor's Degree,Yes,Yes,Yes,Quiet / Dedicated,Medium
+STU-1022,19.9,63.2,33.5,6.7,48.3,High School,No,No,No,Quiet / Dedicated,High
+STU-1023,9.0,75.4,78.3,8.1,49.7,High School,Yes,Yes,No,Quiet / Dedicated,Low
+STU-1024,23.4,78.0,47.7,7.4,70.7,High School,Yes,No,No,Quiet / Dedicated,High
+STU-1025,6.7,94.1,63.9,7.1,70.9,Master's / PhD,Yes,Yes,Yes,Quiet / Dedicated,High
+STU-1026,4.6,67.3,98.7,7.4,37.6,Bachelor's Degree,Yes,Yes,No,Quiet / Dedicated,Low
+STU-1027,14.0,74.6,71.1,7.4,55.3,Bachelor's Degree,Yes,Yes,No,Noisy / Distracting,Medium
+STU-1028,6.8,65.5,74.7,7.8,57.3,Bachelor's Degree,Yes,No,Yes,Moderate Noise,Medium
+STU-1029,12.0,81.3,57.6,6.9,55.1,Bachelor's Degree,Yes,Yes,No,Noisy / Distracting,Medium
+STU-1030,18.3,75.7,82.5,6.2,64.4,Master's / PhD,Yes,No,Yes,Moderate Noise,Medium
+STU-1031,27.6,81.0,53.8,7.7,76.5,Bachelor's Degree,Yes,No,No,Quiet / Dedicated,Medium
+STU-1032,20.5,95.8,80.0,8.3,74.2,Associate Degree,Yes,No,Yes,Quiet / Dedicated,Medium
+STU-1033,6.9,85.1,53.4,5.1,45.2,Associate Degree,Yes,No,No,Quiet / Dedicated,Medium
+STU-1034,6.5,72.3,56.3,8.2,65.0,Master's / PhD,Yes,No,Yes,Moderate Noise,Low
+STU-1035,7.8,90.0,68.0,6.0,55.3,Associate Degree,Yes,No,No,Moderate Noise,High
+STU-1036,10.9,85.1,58.4,5.3,75.3,Master's / PhD,Yes,Yes,No,Quiet / Dedicated,High
+STU-1037,19.2,58.4,72.6,4.6,57.0,Bachelor's Degree,Yes,No,No,Moderate Noise,Low
+STU-1038,25.0,75.1,72.8,5.8,65.7,Bachelor's Degree,Yes,No,Yes,Quiet / Dedicated,Medium
+STU-1039,5.1,86.3,81.0,5.9,55.8,Master's / PhD,Yes,No,No,Moderate Noise,High
